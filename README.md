@@ -38,18 +38,31 @@ Welcome to your Dream Home in Täby available to rent from 7th June 2024 - till 
 
 **Exterior & Surroundings:**
 
-* [Building](images/building.jpg) - The modern apartment building you'll call home.
-* [Täby Center](images/tabyc.jpg) & [Täby Center 2](images/tabyc2.jpg) - Explore the vibrant shopping center nearby.
+
+![tabyc2](https://github.com/Nitinbabariya/apartment/assets/45552/2ccdb1a2-fbe1-4a8e-a0c2-511e0cfd2c3c)
+![tabyc](https://github.com/Nitinbabariya/apartment/assets/45552/3a08d7b1-ec25-463a-8ebc-b48cca967bf8)
+![view](https://github.com/Nitinbabariya/apartment/assets/45552/ffa478c5-e066-476b-9976-53e533b9f750)
+![view2](https://github.com/Nitinbabariya/apartment/assets/45552/fd68fef9-5d02-4437-87ee-ca58eda4e263)
+
+![view](https://github.com/Nitinbabariya/apartment/assets/45552/c5aa7cd6-e652-401f-847b-ded8e751e512)
+![building](https://github.com/Nitinbabariya/apartment/assets/45552/7e9f475e-85dd-48bf-9e1e-7b34c6c453c1)
 
 **Living Areas:**
 
-* [Living Room](images/livingroom.jpg) - Relax and unwind in the spacious living room.
-* [Living Room 2](images/livingroom2.jpg) - Enjoy additional space for entertaining or hobbies.
-* [Living Room 3](images/livingroom3.jpg) - Another view of the bright and inviting living area.
-* [Kitchen](images/kitchen.jpg) - Prepare delicious meals in this well-equipped kitchen.
-* [Kitchen 2](images/kitchen2.jpg) - Another view of the modern kitchen with ample storage.
-* [Kitchen 3](images/kitchen3.jpg) - Plenty of countertop space for all your cooking needs.
-* [Balcony](images/balcony.jpg) - Soak up the sun and fresh air on your private balcony.
+![livingroom](https://github.com/Nitinbabariya/apartment/assets/45552/01a699af-49fc-4767-a44b-83794a319cb4)
+![kitchen3](https://github.com/Nitinbabariya/apartment/assets/45552/64063996-311e-4077-b004-708009e37c28)
+![kitchen2](https://github.com/Nitinbabariya/apartment/assets/45552/c21e0f66-5154-4888-a048-e4a6a3c3931a)
+![balcony](https://github.com/Nitinbabariya/apartment/assets/45552/b0b4fb4b-d2b2-436f-b1c8-29f958c5eacb)
+![kitchen](https://github.com/Nitinbabariya/apartment/assets/45552/2ff1a693-4d74-4cf4-8aa5-09f616c60792)
+
+![livingroom3](https://github.com/Nitinbabariya/apartment/assets/45552/8a652227-bc1d-408a-9c40-b7b64694fccf)
+![livingroom2](https://github.com/Nitinbabariya/apartment/assets/45552/a1d21ac7-548f-4110-a173-a2a1bde3e138)
+![closet](https://github.com/Nitinbabariya/apartment/assets/45552/8c3535cd-cc28-44e8-b60a-fead5c3fbb9c)
+![entrancehall](https://github.com/Nitinbabariya/apartment/assets/45552/6f684881-d348-45f8-82d5-cb1dc214eb03)
+![bathroom](https://github.com/Nitinbabariya/apartment/assets/45552/9a6371d8-f9cf-49c8-9c98-148d542eceff)
+![betdroom2](https://github.com/Nitinbabariya/apartment/assets/45552/650ea32e-246e-409d-9bfb-68cee66d2fbd)
+![bedroom1](https://github.com/Nitinbabariya/apartment/assets/45552/c6ecf2cb-e013-4078-94f9-350436b76199)
+
 
 **Bedrooms & Bathrooms:**
 
@@ -59,37 +72,10 @@ Welcome to your Dream Home in Täby available to rent from 7th June 2024 - till 
 * [Walk-in Closet](images/closet.jpg) - Ample storage space to keep your belongings organized.
 
 **Amenities:**
-
-* [Playground](images/playground1.jpg) & [Playground 2](images/playground2.jpg) - Let the kids have fun at the nearby playgrounds.
-* [Tennis Court](images/tennis.jpeg) - Enjoy a friendly game on the on-site tennis court.
-* [Barbecue Area](images/barbeque.jpg) & [Barbecue Area 2](images/barbeque2.jpg) & [Barbecue Area 4](images/barbeque4.jpg) - Host memorable gatherings with the barbecue facilities.
-* [Stunning Views](images/view.jpg) & [View 2](images/view2.jpg) - Breathtaking panoramic views from your apartment.
-
-
-###
-
-![tabyc2](https://github.com/Nitinbabariya/apartment/assets/45552/2ccdb1a2-fbe1-4a8e-a0c2-511e0cfd2c3c)
-![tabyc](https://github.com/Nitinbabariya/apartment/assets/45552/3a08d7b1-ec25-463a-8ebc-b48cca967bf8)
-![view](https://github.com/Nitinbabariya/apartment/assets/45552/c5aa7cd6-e652-401f-847b-ded8e751e512)
+![barbeque](https://github.com/Nitinbabariya/apartment/assets/45552/1f8596c5-7265-4bff-b6d7-1d2f4191972e)
 ![tennis](https://github.com/Nitinbabariya/apartment/assets/45552/69462ccf-9bbb-41d1-b5a7-9ae1b2d070a1)
 ![playground2](https://github.com/Nitinbabariya/apartment/assets/45552/8049a4c3-c1cb-4d30-97a4-4d6e541c0e04)
 ![playground1](https://github.com/Nitinbabariya/apartment/assets/45552/a20114e2-64b4-4f61-b65b-0579e52e5ec0)
 ![barbeque4](https://github.com/Nitinbabariya/apartment/assets/45552/86b4f7d6-de1e-4a35-89f7-0f88c0506b6d)
 ![barbeque2](https://github.com/Nitinbabariya/apartment/assets/45552/fb00f8ea-f09f-49eb-adfe-ffb304106961)
-![building](https://github.com/Nitinbabariya/apartment/assets/45552/7e9f475e-85dd-48bf-9e1e-7b34c6c453c1)
-![barbeque](https://github.com/Nitinbabariya/apartment/assets/45552/1f8596c5-7265-4bff-b6d7-1d2f4191972e)
-![view2](https://github.com/Nitinbabariya/apartment/assets/45552/fd68fef9-5d02-4437-87ee-ca58eda4e263)
-![closet](https://github.com/Nitinbabariya/apartment/assets/45552/8c3535cd-cc28-44e8-b60a-fead5c3fbb9c)
-![entrancehall](https://github.com/Nitinbabariya/apartment/assets/45552/6f684881-d348-45f8-82d5-cb1dc214eb03)
-![bathroom](https://github.com/Nitinbabariya/apartment/assets/45552/9a6371d8-f9cf-49c8-9c98-148d542eceff)
-![betdroom2](https://github.com/Nitinbabariya/apartment/assets/45552/650ea32e-246e-409d-9bfb-68cee66d2fbd)
-![bedroom1](https://github.com/Nitinbabariya/apartment/assets/45552/c6ecf2cb-e013-4078-94f9-350436b76199)
-![livingroom3](https://github.com/Nitinbabariya/apartment/assets/45552/8a652227-bc1d-408a-9c40-b7b64694fccf)
-![livingroom2](https://github.com/Nitinbabariya/apartment/assets/45552/a1d21ac7-548f-4110-a173-a2a1bde3e138)
-![view](https://github.com/Nitinbabariya/apartment/assets/45552/ffa478c5-e066-476b-9976-53e533b9f750)
-![livingroom](https://github.com/Nitinbabariya/apartment/assets/45552/01a699af-49fc-4767-a44b-83794a319cb4)
-![kitchen3](https://github.com/Nitinbabariya/apartment/assets/45552/64063996-311e-4077-b004-708009e37c28)
-![kitchen2](https://github.com/Nitinbabariya/apartment/assets/45552/c21e0f66-5154-4888-a048-e4a6a3c3931a)
-![balcony](https://github.com/Nitinbabariya/apartment/assets/45552/b0b4fb4b-d2b2-436f-b1c8-29f958c5eacb)
-![kitchen](https://github.com/Nitinbabariya/apartment/assets/45552/2ff1a693-4d74-4cf4-8aa5-09f616c60792)
 
